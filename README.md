@@ -1,11 +1,11 @@
-# Norlandz.github.io
 
 
-[link to NttDrawAndChat](https://github.com/Norlandz/NttDrawAndChat)
+### Profolio 
 
-[link to NttDrawAndChat Instructions](NttDrawAndChat/DrawAndChatApp_Instruction/html/outhwp.html)
+- https://norlandz.github.io/profolio_n/dist/index.html
 
----
----
+### Others
 
-[link to test_html.html](test/test_html.html)
+- https://tlightchat.netlify.app
+
+- https://norlandz.github.io/NttDrawAndChat/DrawAndChatApp_Instruction/html/outhwp.html
