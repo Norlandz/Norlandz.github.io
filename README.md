@@ -1,8 +1,8 @@
 
 
-### Profolio 
+### Portfolio 
 
-- https://norlandz.github.io/profolio_n/dist/index.html
+- https://norlandz.github.io/portfolio_n/dist/index.html
 
 ### Others
 
